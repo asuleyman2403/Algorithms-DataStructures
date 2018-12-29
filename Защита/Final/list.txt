@@ -1,0 +1,29 @@
+Stack OK
+Queue OK
+Deque OK
+
+Linaer Search ok
+Binary Search ok
+Binary Search Tree ok
+
+Bubble Sort ok
+Quick Sort 0.5
+Count Sort 0
+
+Heap ok 
+Heap Sort ok
+
+Rabin-Karp(Hashes) ok
+Knuth-Morris-Pratt(KMP)
+
+Graphs ok
+BFS ok
+DFS ok
+MST(Prim, Kruskal) 0.5
+
+Оценка времени работы алгоритма
+--------------------------------
+
+Не будет:
+Trie
+Merge Sort
